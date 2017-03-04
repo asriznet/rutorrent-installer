@@ -1112,7 +1112,7 @@ verifyWebServerVars() {
 }
 
 initializeWwwRootVar() {
-	WWW_ROOT=${WWW_ROOT:-/var/wwww/rutorrent}
+	WWW_ROOT=${WWW_ROOT:-/var/www/rutorrent}
 }
 
 createWebServerUserGroup() {
